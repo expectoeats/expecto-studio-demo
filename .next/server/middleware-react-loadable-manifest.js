@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\sections\\\\StatsSection.tsx -> canvas-confetti\":{\"id\":\"components\\\\sections\\\\StatsSection.tsx -> canvas-confetti\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_canvas-confetti_dist_confetti_module_mjs.js\"]}}"
