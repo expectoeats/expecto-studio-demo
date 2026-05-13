@@ -1,15 +1,46 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-53d0dc29fc1d49ec.js",
+      "static/chunks/fd9d1056-00bb33a35b5f8051.js",
+      "static/chunks/23-68b493f91180a142.js",
+      "static/chunks/main-app-409110449871ef76.js",
+      "static/chunks/app/_not-found/page-8520002249bfd8d4.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-53d0dc29fc1d49ec.js",
+      "static/chunks/fd9d1056-00bb33a35b5f8051.js",
+      "static/chunks/23-68b493f91180a142.js",
+      "static/chunks/main-app-409110449871ef76.js",
+      "static/css/ba8022171aa22816.css",
+      "static/chunks/app/layout-82c066bd0a94c53a.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-53d0dc29fc1d49ec.js",
+      "static/chunks/fd9d1056-00bb33a35b5f8051.js",
+      "static/chunks/23-68b493f91180a142.js",
+      "static/chunks/main-app-409110449871ef76.js",
+      "static/chunks/648-e0e904aa96c0483a.js",
+      "static/chunks/327-c0464fab43cee4e6.js",
+      "static/chunks/app/page-c376492903b38b4e.js"
+    ],
+    "/gallery/page": [
+      "static/chunks/webpack-53d0dc29fc1d49ec.js",
+      "static/chunks/fd9d1056-00bb33a35b5f8051.js",
+      "static/chunks/23-68b493f91180a142.js",
+      "static/chunks/main-app-409110449871ef76.js",
+      "static/chunks/648-e0e904aa96c0483a.js",
+      "static/chunks/449-0d1bdb372713af3a.js",
+      "static/chunks/app/gallery/page-4f1588199d3e6101.js"
+    ],
+    "/booking-confirmed/page": [
+      "static/chunks/webpack-53d0dc29fc1d49ec.js",
+      "static/chunks/fd9d1056-00bb33a35b5f8051.js",
+      "static/chunks/23-68b493f91180a142.js",
+      "static/chunks/main-app-409110449871ef76.js",
+      "static/chunks/648-e0e904aa96c0483a.js",
+      "static/chunks/449-0d1bdb372713af3a.js",
+      "static/chunks/app/booking-confirmed/page-76f08cb038fb519f.js"
     ]
   }
 }
